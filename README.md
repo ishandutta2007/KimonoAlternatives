@@ -11,4 +11,11 @@ Alternative sites to Kimono Labs after they announced to be shut down on 2/26/20
 <li>https://www.scrapehero.com/</li>
 <li>http://datahut.co/</li>
 <li>http://scrapy.org/</li>
+<li>https://www.dashblock.com/</li>
+<li>https://simplescraper.io/</li>
+<li>https://github.com/matthewmueller/x-ray</li>
+<li>https://wrapapi.com/</li>
 <ul>
+  
+  
+  
